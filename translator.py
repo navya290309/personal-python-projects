@@ -1,3 +1,7 @@
+#copy the code and paste it in you compiler 
+#make sure you have downloaded googletrans==3.1.0a0 pyperclip gTTS pygame 
+#to avoid any error use : pip install googletrans==3.1.0a0 pyperclip gTTS pygame
+
 import tkinter as tk
 from tkinter import ttk
 from googletrans import Translator, LANGUAGES
